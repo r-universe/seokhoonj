@@ -5,6 +5,9 @@
 [submodule "ecos"]
 	path = ecos
 	url = https://github.com/seokhoonj/ecos
+[submodule "kisopenapi"]
+	path = kisopenapi
+	url = https://github.com/seokhoonj/kisopenapi
 [submodule "kosis"]
 	path = kosis
 	url = https://github.com/seokhoonj/kosis
